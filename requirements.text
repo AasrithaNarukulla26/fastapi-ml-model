@@ -3,4 +3,4 @@ streamlit
 uvicorn
 pandas 
 scikit-learn
-jonlib
+joblib
